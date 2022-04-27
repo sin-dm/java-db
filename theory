@@ -1,0 +1,9 @@
+JDBC - Java Database Connectivity (JDBC API) - Пишем sql сами.
+JPA - Java Persistence Api (ORM - Object Relation Model) - Описываем модели, sql генерирует "фреймворк"
+
+JPA работает поверх JDBC.
+
+Библиотеки:
+JDBC: Spring JDBC Template
+JPA: Hibernate, Spring Data JPA.
+
